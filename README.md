@@ -2,7 +2,8 @@
 # How can I post comments to Pumpfun token without login to the platform?
 
 ## Contact
-telegram: [Takhi](https://t.me/Takhi777)
+discord: takhi_77
+telegram: [@SolSon](https://t.me/@pio_sol)
 
 You can contact me here if you have any problems with this repo.
 This repo is eliminated some valuable part like login part, posting reply etc.
