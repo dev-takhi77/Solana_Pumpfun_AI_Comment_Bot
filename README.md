@@ -3,7 +3,7 @@
 
 ## Contact
 discord: takhi_77
-telegram: [@SolSon](https://t.me/@pio_sol)
+telegram: [@Takhi](https://t.me/@takhi_77)
 
 You can contact me here if you have any problems with this repo.
 This repo is eliminated some valuable part like login part, posting reply etc.
